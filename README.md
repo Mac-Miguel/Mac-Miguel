@@ -12,8 +12,19 @@
 - 💞️ I’m looking to collaborate on with, who like the same as I. I'm learning very very fast! 
 - 📫 <a href="#mail"> https://www.macmiguel@post.cz
 
-
-<!---
-Mac-Miguel/Mac-Miguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I love this programs: Adobe Dreamweaver, Adobe Illustrator, Gimp, Visual Studio, NetBeans, Adobe Photoshop...
+  
+  
+  >> text-align: left;
+  >> float: left;
+  
+  var x = "top": 
+  var a = "programs"
+  if (x == "top" && a == "programs") {
+        console.write('Yeah Dreamweaver and Illustrator is TOP programs.')
+  }
+  else {
+        console.write('Yeah not pad is bad.')
+  }
+  
+  return 0;
